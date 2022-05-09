@@ -52,7 +52,7 @@ class Challenge {
 
 
         }
-        
+
 
         return monthlyBill;
 
